@@ -6,8 +6,9 @@ elif grade >= 80 and grade <= 89:
 elif grade >= 70 and grade <= 79:
     print("Very Good, Your grade level is C")
 elif grade >= 60 and grade <= 69:
-    print("Nice Try, Your grade level is B")
+    print("Nice Try, Your grade level is D")
 elif grade < 60:
     print("Sad to say but your grade level is F\nAt this rate, You fail as a student\nBetter Luck Next Time!!!")
 else:
+
     print("Error Calculation, Only numbers will be accepted in this program")
